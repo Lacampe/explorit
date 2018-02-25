@@ -23,5 +23,5 @@
 yarn-debug.log*
 .yarn-integrity
 
-# Ignore all API keys/secrets
+# Ignore all API ids/secrets
 /config/application.yml
